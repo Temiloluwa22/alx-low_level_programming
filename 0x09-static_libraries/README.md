@@ -1,1 +1,1 @@
-Static Libaries
+readme for static
